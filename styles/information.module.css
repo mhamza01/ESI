@@ -1,0 +1,19 @@
+.onpage{
+    position: sticky;
+    top: 100px;
+    background: #F0F8FF;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    
+}
+
+.navitem{
+    text-decoration: none;
+}
+
+
+.navitem:active{
+    color: #F08080;
+    font-weight: bold;
+}

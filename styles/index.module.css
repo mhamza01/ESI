@@ -1,0 +1,28 @@
+.home{
+    padding: 50px;
+    text-align: center;
+}
+.button{
+    width: 250px;
+    height: 50px;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+    margin-right: 20px;
+    font-size: 16px; 
+    background-color: #87CEFA; 
+    text-align: center;
+}
+
+.button:hover {
+    color: black;
+    font-weight: 600;
+    box-shadow: 3px 8px 10px #484848;
+    transform: translateY(-3px);
+    transition: all 0.3s ease 0s;
+    background-color: #F08080;
+    text-decoration: none;
+}
+.button:focus {
+    outline: none;
+}

@@ -1,0 +1,136 @@
+
+/* Title */
+.brand{
+    color: #4169E1;
+    font-size: 30px;
+    font-family: cursive;
+    position: absolute;
+    text-decoration: none;
+}
+.brand:hover,
+.brand:focus {
+    color: #F08080;
+}
+
+.nav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button0 {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+    margin-right: 20px;
+    font-size: 16px; 
+    background-color: #87CEFA; 
+}
+
+.button1 {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+    margin-right: 20px;
+    font-size: 16px; 
+    background-color: #87CEFA; 
+}
+
+.button2 {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+    margin-right: 20px;
+    font-size: 16px;  
+    background-color: #87CEFA; 
+}
+.button3 {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+    margin-right: 20px;
+    font-size: 16px;  
+    background-color: #87CEFA; 
+}
+.button4 {
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    margin-top: 8px;
+    margin-right: 20px;
+    font-size: 16px;  
+    background-color: #87CEFA; 
+}
+
+.button0:hover {
+    color: black;
+    font-weight: 600;
+    box-shadow: 3px 8px 10px #484848;
+    transform: translateY(-3px);
+    transition: all 0.3s ease 0s;
+    background-color: #F08080;
+    text-decoration: none;
+}
+.button0:focus {
+    outline: none;
+}
+
+.button1:hover {
+    color: black;
+    font-weight: 600;
+    box-shadow: 3px 8px 10px #484848;
+    transform: translateY(-3px);
+    transition: all 0.3s ease 0s;
+    background-color: #F08080;
+    text-decoration: none;
+}
+.button1:focus {
+    outline: none;
+}
+
+.button2:hover {
+    color: black;
+    font-weight: 600;
+    box-shadow: 3px 8px 10px #484848;
+    transform: translateY(-3px);
+    transition: all 0.3s ease 0s;
+    background-color: #F08080;
+    text-decoration: none;
+}
+.button2:focus {
+    outline: none;
+}
+
+.button3:hover {
+    color: black;
+    font-weight: 600;
+    box-shadow: 3px 8px 10px #484848;
+    transform: translateY(-3px);
+    transition: all 0.3s ease 0s;
+    background-color: #F08080;
+    text-decoration: none;
+}
+.button3:focus {
+    outline: none;
+}
+
+.button4:hover {
+    color: black;
+    font-weight: 600;
+    box-shadow: 3px 8px 10px #484848;
+    transform: translateY(-3px);
+    transition: all 0.3s ease 0s;
+    background-color: #F08080;
+    text-decoration: none;
+}
+.button4:focus {
+    outline: none;
+}

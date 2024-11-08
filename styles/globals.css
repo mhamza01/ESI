@@ -1,0 +1,53 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+
+
+html,
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#clinical_table1 {
+  border-collapse: collapse;
+  width:100%;
+}
+
+#clinical_table1 td, #clinical_table1 th,
+#interpreting_table td, #interpreting_table th,
+#example1_table td, #example1_table th,
+#example2_table td, #example2_table th,
+#example3a_table td, #example3a_table th,
+#example3b_table td, #example3b_table th,
+#example4_table td, #example4_table th
+{
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+#clinical_table1 th,
+#example1_table th,
+#example2_table th,
+#example3b_table th,
+#example4_table th,
+#interpreting_table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #87CEFA;
+  color: white;
+}
+
+
+
+
